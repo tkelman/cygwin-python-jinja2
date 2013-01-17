@@ -1,5 +1,0 @@
-ORIG_PN="Jinja2"
-inherit distutils
-
-
-HOMEPAGE="http://jinja.pocoo.org/"
