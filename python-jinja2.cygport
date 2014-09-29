@@ -2,7 +2,7 @@ ORIG_PN="Jinja2"
 inherit distutils
 
 NAME="python-jinja2"
-VERSION=2.6
+VERSION=2.7.3
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python template engine library"
